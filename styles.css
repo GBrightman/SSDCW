@@ -10,13 +10,13 @@ body {
 
 .topnav {
     overflow: hidden;
-    background-color: #437793;
+    background-color: #A4A5AE3;
 }
 
 .topnav a {
     float: left;
     display: block;
-    color: #f2f2f2;
+    color: #B0C7BD;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
@@ -24,7 +24,7 @@ body {
 
 /* Change the colour on hover */
 .topnav a:hover {
-    background-color: #437793;
+    background-color: #A4A5AE;
     color: black;
 }
 
@@ -34,14 +34,14 @@ body {
 }
 
 .footer {
-    background-color: #437793;
+    background-color: #A4A5AE;
     padding: 10px;
-    color: #f2f2f2
+    color: #B0C7BD
 }
 
 .btn {
-    border: 2px solid #437793;
-    background-color: #437793;
+    border: 2px solid #A4A5AE;
+    background-color: #A4A5AE;
     color: white;
     padding: 14px 28px;
     font-size: 16px;
@@ -49,7 +49,7 @@ body {
 }
 
 .btn-linking:hover {
-    background: 7197ac;
+    background: #7197ac;
     color: white;
 }
 
