@@ -49,8 +49,8 @@ body {
 }
 
 .btn-linking:hover {
-    background: #7197ac;
-    color: white;
+    background-color: #7197ac;
+    color: #000000;
 }
 
 /* The grid container */
