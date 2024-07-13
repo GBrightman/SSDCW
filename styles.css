@@ -53,8 +53,6 @@ body {
     color: white;
 }
 
-/*Grid layout adapted from W3Schools.com, https://www.w3schools.com/css/tryit.asp?filename=trycss_template1_grid */
-
 /* The grid container */
 .grid-container {
   display: grid;
